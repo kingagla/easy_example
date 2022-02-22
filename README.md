@@ -15,6 +15,6 @@ możemy wykorzystać.
 #### Podtytuł
 ##### Podtytuł
 ###### Podtytuł
-####### Każda kolejna liczba "#" Sprawi jedynie, że będą one widoczne jako teskt podtytułu (tak jak w tym podtytule).
+####### Każda kolejna liczba "#" Sprawi jedynie, że będą one widoczne jako zwykłu teskt (tak jak w tej linijce).
 
 W markdown możemy zaznaczyć, że coś jest fragmentem kodu umieszczając to pomiędzy \`\`. Np. `a = 4`, `print(a+b)`

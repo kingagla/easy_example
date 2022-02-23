@@ -6,3 +6,4 @@ def multiply(a, b):
 
 
 print(f'Sum: 3 + 3 = {sum(3,3)}')
+print(f'multiplication: 3 + 3 = {multiply(3,3)}')

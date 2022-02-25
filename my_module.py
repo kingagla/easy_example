@@ -1,14 +1,23 @@
-def sum(a,b):
-  return a + b 
+def sum(a, b):
+    return a + b
+
 
 def multiply(a, b):
-  return a * b
+    return a * b
 
 
-def main():
-  print(f'Sum: 3 + 3 = {sum(3,3)}')
-  print(f'multiplication: 3 + 3 = {multiply(3,3)}')
+# TODO: example with args and kwargs
 
-  
+def main(a, b):
+    print(f'Sum: 3 + 3 = {sum(a, b)}')
+    print(f'multiplication: 3 + 3 = {multiply(a, b)}')
+
+
 if __name__ == '__main__':
-  main()
+    try:
+        a, b = 'a', 3
+        main(a, b)
+    except TypeError as err:
+        print(err)
+        a, b = 3, 3
+        main(a, b)

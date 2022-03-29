@@ -29,4 +29,4 @@ to jest kod
 
 *pochylone*
 
-$\alpha$
+

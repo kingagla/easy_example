@@ -18,3 +18,15 @@ możemy wykorzystać.
 ####### Każda kolejna liczba "#" Sprawi jedynie, że będą one widoczne jako zwykłu teskt (tak jak w tej linijce).
 
 W markdown możemy zaznaczyć, że coś jest fragmentem kodu umieszczając to pomiędzy \`\`. Np. `a = 4`, `print(a+b)`
+
+`to jest kod`
+
+```
+to jest kod 
+```
+
+**pogrubione**
+
+*pochylone*
+
+$\alpha$

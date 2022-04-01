@@ -30,3 +30,11 @@ to jest kod
 *pochylone*
 
 
+- kropka 1
+- kropka 2
+
+
+1. numerowanie 1
+1. numerowanie 2
+
+

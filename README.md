@@ -1,5 +1,6 @@
 # easy_example
-This repository is created for my students to show them how GIT works with the most basic GIT commands. Feel free to copy :) 
+This repository is created for my students to show them how GIT works with the most basic GIT commands. 
+Merging mult into main provides conflict. Enjoy! Feel free to copy :) 
 
 # Tytuł
 Plik `README.md` jest plikiem informacyjnym. Zawiera różne informacje o naszym projekcie. Zaczynając od informacji 

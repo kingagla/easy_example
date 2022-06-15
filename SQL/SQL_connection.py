@@ -1,5 +1,5 @@
 import mysql.connector
-from settings import user, password
+from SQL.settings import user, password
 
 connection = mysql.connector.connect(host='localhost',
                                      database='sales',

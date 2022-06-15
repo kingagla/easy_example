@@ -1,2 +1,3 @@
 # ignore passwords
-settings.py
+SQL/settings.py
+settings2.py

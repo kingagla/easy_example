@@ -19,7 +19,7 @@ Jak zatem opublikować kod zawierający połączenie do bazy bez publikowania ta
    1. Gdy chcesz wprowadzić do `.gitignore` plik, który już istnieje w repo, to zmieni on kolor na zielono-żółty. 
    Jeżeli jednak nie zmieni on koloru i nadal będzie w kolorze typowym dla plików będących w repo 
    (niebieski w przypadku plików edytowanych lub zielony w przypadku nowych plików), to musisz usunąć cache dla
-   tego konkretnego pliku. Aby to zrobić otwórz terminal i wpisz w nim ``git rm --cached sciezka_od_roota_do_pliku.py``
+   tego konkretnego pliku. Aby to zrobić otwórz terminal i wpisz w nim ``git rm --cached sciezka_do_pliku.py``
       
 2. Zapisz w pliku `.gitignore` `settings.py`
 3. Utwórz plik ``settings.py`` - jeżeli utworzysz go w jakimś pod-folderze, to pamiętaj aby nazwa pliku 
